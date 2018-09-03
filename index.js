@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 function happyHolidays() {
   return "Happy holidays!"
 }
@@ -20,3 +21,8 @@ function holidayCountdown(days, holiday) {
 }
 
 happyHolidaysTo("20","It's Mother's Days")
+=======
+function happyHolidays(string) {
+  return "Happy holidays"
+}
+>>>>>>> 5651e829ab8250cdea2e3b14df084c643c091c5f
